@@ -1,3 +1,11 @@
+> [!CAUTION]
+> **ARCHIVED CRYPTONIGHT POOL — DO NOT DEPLOY FOR QWERTYCOIN V2.**
+> This stack targets the retired CryptoNight network and legacy wallet/daemon
+> APIs. It is incompatible with current RandomX, EPoSE, accounting, and payout
+> safety requirements. Use the [official pool](https://pool.qwertycoin.org/) and
+> its [current source](https://github.com/qwertycoin-org/pool-qwertycoin-org.github.io).
+> Never connect a funded wallet to this historical software.
+
 cryptonote-nodejs-pool
 ======================
 
